@@ -15,7 +15,3 @@
 | **Material**         | FR-4                         |
 
 ---
-
-# **Join Our Community**
-
-For more detailed information, technical discussions, and updates, please join our **[Discord Server](https://discord.gg/pQUKm2a3gf)**.
